@@ -1,3 +1,3 @@
-function sumArray(arr: number[]): number {
-    return arr.reduce((acc, curr) => acc + curr, 0);
+function sumArray(aray: number[]): number {
+    return aray.reduce((acc, curr) => acc + curr, 0);
   }
